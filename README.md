@@ -66,7 +66,7 @@ YAML                     1 repo              ██░░░░░░░░░�
 
 **Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/dhivyabharathy/dhivyabharathy/main/assets/bar_graph.png)
+![Lines of Code chart](https://raw.githubusercontent.com/Dhivya-Bharathy/Dhivya-Bharathy/main/assets/bar_graph.png)
 
 
  Last Updated on 10/07/2025 01:04:20 UTC
