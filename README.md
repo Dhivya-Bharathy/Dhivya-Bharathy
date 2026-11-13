@@ -1,20 +1,47 @@
-## Hi 👋. I'm DhivyaBharathy
+<div align="center">
 
-- I am **AI Software Developer** currently focused on building intelligent AI agents
-- Work with **OpenAI** and the **Praison Framework**
-- I love **Building AI Agents** 🤖
+<img src="./assets/banner.jpg" alt="I wanted to learn AI. AI decided to learn ME!" width="100%" />
 
-Now I am learning **Apollo client** and **GraphQL**
+# Hi, I'm Dhivya Bharathy
 
-**My stack**
-<p align="left">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=ts" width="60" alt="TYPESCRIPT"/>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=next" width="60" alt="Next.js" />
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=python" width="60" alt="Python" />
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=openai" width="60" alt="OpenAI" />
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=supabase" width="60" alt="Supabase" />
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql" width="60" alt="PostgreSQL" />
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=docker" width="60" alt="Docker" />
+### *I wanted to learn **AI**. AI decided to learn **ME!***
+
+<br />
+
+[![Instagram](https://img.shields.io/badge/Instagram-@theaipaithiyam-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/theaipaithiyam)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhivya-bharathy-894b7b238/)
+[![GitHub followers](https://img.shields.io/github/followers/Dhivya-Bharathy?label=Follow&style=for-the-badge&color=181717&logo=github)](https://github.com/Dhivya-Bharathy?tab=followers)
+
+</div>
+
+---
+
+## About me
+
+- AI **Software Developer** focused on intelligent **AI agents**
+- Building with **OpenAI** and the **Praison** framework
+- Currently learning **Apollo Client** and **GraphQL**
+- Creator of **[@theaipaithiyam](https://instagram.com/theaipaithiyam)** — AI demos, voice UX, and Tanglish comedy scripts
+
+<br />
+
+<div align="center">
+
+[![Dhivya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhivya-Bharathy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/Dhivya-Bharathy)
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhivya-Bharathy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/Dhivya-Bharathy)
+
+</div>
+
+---
+
+## Core stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,next,python,openai,react,graphql,nodejs,supabase&perline=8" alt="Core stack" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgresql,docker,prisma,tailwind,express,vscode,git,github&perline=8" alt="Tools and data" />
 </p>
 
 <!--START_SECTION:waka-->
@@ -62,76 +89,52 @@ JavaScript               2 repos             █████░░░░░░�
 YAML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
 ```
 
-
-
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/Dhivya-Bharathy/Dhivya-Bharathy/main/assets/bar_graph.png)
 
-
- Last Updated on 10/07/2025 01:04:20 UTC
+Last Updated on 10/07/2025 01:04:20 UTC
 <!--END_SECTION:waka-->
 
-**Languages**
+---
+
+### Languages
+
 <p align="left">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=html" width="60" alt="HTML" />
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=css" width="60" alt="CSS" />
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=js" width="60" alt="JAVASCRIPT" />
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=react" width="60" alt="JSX"/>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=ts" width="60" alt="TYPESCRIPT"/>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=python" width="60" alt="Python"/>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=md" width="60" alt="MARKDOWN"/>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=graphql" width="60" alt="GRAPHQL"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,md,graphql&perline=8" alt="Languages" />
 </p>
 
-<br>
+### Libraries & frameworks
 
-**Libraries**
 <p align="left">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=react" width="60" alt="React" />
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=next" width="60" alt="Next.js" />
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=tailwind" width="60" alt="Tailwind CSS" />
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=prisma" width="60" alt="Prisma" />
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=expressjs" width="60" alt="Express.js" />
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs" width="60" alt="Node.js" />
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=openai" width="60" alt="OpenAI" />
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=langchain" width="60" alt="LangChain" />
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=apollo" width="60" alt="Apollo GraphQL" />
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=reactquery" width="60" alt="React Query" />
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=shadcn" width="60" alt="shadcn/ui" />
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=zustand" width="60" alt="Zustand" />
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=authjs" width="60" alt="Auth.js" />
+  <img src="https://skillicons.dev/icons?i=react,next,tailwind,prisma,express,openai,langchain,graphql&perline=8" alt="Libraries" />
 </p>
 
-And more Libraries..
+Apollo Client · React Query · shadcn/ui · Zustand · Auth.js
 
-<br>
+### Tools
 
-**Tools**
 <p align="left">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=github" width="60" alt="GitHub" />
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=vercel" width="60" alt="Vercel" />
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=npm" width="60" alt="npm" />
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=yarn" width="60" alt="Yarn" />
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=pnpm" width="60" alt="pnpm" />
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt" width="60" alt="ChatGPT" />
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=figma" width="60" alt="Figma" />
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=firefox" width="60" alt="Firefox" />
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=git" width="60" alt="Git" />
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=gitbash" width="60" alt="Git Bash" />
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=githubcopilot" width="60" alt="GitHub Copilot" />
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" width="60" alt="Gmail" />
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=insomnia" width="60" alt="Insomnia" />
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=prettier" width="60" alt="Prettier" />
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode" width="60" alt="VS Code" />
+  <img src="https://skillicons.dev/icons?i=github,vercel,npm,yarn,pnpm,figma,git,vscode&perline=8" alt="Tools row 1" />
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=chatgpt,firefox,prettier,docker&perline=4" alt="Tools row 2" />
 </p>
 
-And more Tools..
+<br />
 
-<br>
+<div align="center">
+
+### Contribution graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dhivya-Bharathy/Dhivya-Bharathy/main/dist/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dhivya-Bharathy/Dhivya-Bharathy/main/dist/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Dhivya-Bharathy/Dhivya-Bharathy/main/dist/github-contribution-grid-snake.svg" />
-</picture> 
+</picture>
+
+<br /><br />
+
+⭐️ From [**Dhivya-Bharathy**](https://github.com/Dhivya-Bharathy) · *Building agents, learning in public*
+
+</div>
