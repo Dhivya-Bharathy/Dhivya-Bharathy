@@ -91,7 +91,7 @@ YAML                     1 repo              ██░░░░░░░░░�
 
 **Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/Dhivya-Bharathy/Dhivya-Bharathy/main/assets/bar_graph.png)
+[![Contribution activity](https://github-readme-activity-graph.vercel.app/graph?username=Dhivya-Bharathy&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Dhivya-Bharathy)
 
 Last Updated on 10/07/2025 01:04:20 UTC
 <!--END_SECTION:waka-->
